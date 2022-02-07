@@ -5,11 +5,11 @@ const img = document.querySelector("#github-user-avatar");
 const numOfRepo = document.querySelector("#github-user-repos");
 const languages = document.querySelector("#github-repos-languages");
 const stars = document.querySelector("#github-repos-stars");
-let repoName = document.querySelector("#github-repo-name");
-let repoCreate= document.querySelector("#github-repo-created");
-let repoIssue = document.querySelector("#github-repo-open-issues");
-let repoWatch = document.querySelector("#github-repo-watchers");
-let repocontributors = document.querySelector("#github-repo-contributors");
+const repoName = document.querySelector("#github-repo-name");
+const repoCreate= document.querySelector("#github-repo-created");
+const repoIssue = document.querySelector("#github-repo-open-issues");
+const repoWatch = document.querySelector("#github-repo-watchers");
+const repocontributors = document.querySelector("#github-repo-contributors");
 
 
  
